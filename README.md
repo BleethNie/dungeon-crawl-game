@@ -4,7 +4,7 @@ _Project developed in January 2021. (Codecool course)_
 
 _Developers: Joanna Rzeszótko-Doniec, Jakub Zieliński, Piotr Wójcik, Dominik Wątor_
 
-_ Key words: roguelike game, load from/ save in database or file (Dao interface), levels, fight, randomly moving monsters, inventory_
+_Key words: roguelike game, java, javaFx, load from/ save in database or file (Dao interface), levels, fight, randomly moving monsters, inventory_
 
 
 ![new-game](printscreens/new_game.png)
